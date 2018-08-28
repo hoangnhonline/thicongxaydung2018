@@ -8,7 +8,7 @@
   </h1>
   <ol class="breadcrumb">
     <li><a href="#"><i class="fa fa-dashboard"></i> Dashboard</a></li>
-    <li><a href="{{ route( 'banner.index', ['object_id' =>1, 'object_type' =>3]) }}">Banner</a></li>
+    <li><a href="{{ route( 'banner.index', ['object_id' => $arrSearch['object_id'], 'object_type' => $arrSearch['object_type']]) }}">Banner</a></li>
     <li class="active">Danh sách</li>
   </ol>
 </section>
