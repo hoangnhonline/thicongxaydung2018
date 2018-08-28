@@ -23,8 +23,7 @@ return array(
     'App\\Http\\Controllers\\Backend\\CartController' => $baseDir . '/app/Http/Controllers/Backend/CartController.php',
     'App\\Http\\Controllers\\Backend\\CartProductController' => $baseDir . '/app/Http/Controllers/Backend/CartProductController.php',
     'App\\Http\\Controllers\\Backend\\CateController' => $baseDir . '/app/Http/Controllers/Backend/CateController.php',
-    'App\\Http\\Controllers\\Backend\\ColorController' => $baseDir . '/app/Http/Controllers/Backend/ColorController.php',
-    'App\\Http\\Controllers\\Backend\\CompareController' => $baseDir . '/app/Http/Controllers/Backend/CompareController.php',
+    'App\\Http\\Controllers\\Backend\\ColorController' => $baseDir . '/app/Http/Controllers/Backend/ColorController.php',    
     'App\\Http\\Controllers\\Backend\\ContactController' => $baseDir . '/app/Http/Controllers/Backend/ContactController.php',
     'App\\Http\\Controllers\\Backend\\ConvertController' => $baseDir . '/app/Http/Controllers/Backend/ConvertController.php',
     'App\\Http\\Controllers\\Backend\\CrawlerController' => $baseDir . '/app/Http/Controllers/Backend/CrawlerController.php',
@@ -52,7 +51,7 @@ return array(
     'App\\Http\\Controllers\\CrawlerController' => $baseDir . '/app/Http/Controllers/CrawlerController.php',
     'App\\Http\\Controllers\\Frontend\\CartController' => $baseDir . '/app/Http/Controllers/Frontend/CartController.php',
     'App\\Http\\Controllers\\Frontend\\CateController' => $baseDir . '/app/Http/Controllers/Frontend/CateController.php',
-    'App\\Http\\Controllers\\Frontend\\CompareController' => $baseDir . '/app/Http/Controllers/Frontend/CompareController.php',
+    
     'App\\Http\\Controllers\\Frontend\\ContactController' => $baseDir . '/app/Http/Controllers/Frontend/ContactController.php',
     'App\\Http\\Controllers\\Frontend\\CustomerController' => $baseDir . '/app/Http/Controllers/Frontend/CustomerController.php',
     'App\\Http\\Controllers\\Frontend\\DetailController' => $baseDir . '/app/Http/Controllers/Frontend/DetailController.php',
