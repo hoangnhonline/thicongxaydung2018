@@ -1,0 +1,2 @@
+[27-Aug-2018 13:38:07 Asia/Saigon] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/thif022a/public_html/app/Http/Controllers/Backend/BannerController.php on line 24
+[27-Aug-2018 13:38:09 Asia/Saigon] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/thif022a/public_html/app/Http/Controllers/Backend/BannerController.php on line 24
